@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// changing comment
+// changing comment - 2
 
 static int get_file_size(char* filename)
 {
