@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+// adding comment
+
 static int get_file_size(char* filename)
 {
     FILE *fp=fopen(filename,"rb");
